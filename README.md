@@ -8,8 +8,8 @@ The password can include:
 
  Any invalid inputs from the user will prompt the user for the correct input. Once all inputs have been populated correctly the user can clink on the textbox to copy the password to a their clipboard.
 
-https://DLHoye.github.io/03-JavaScript-Password-Generator
+https://dlhoye.github.io/03-JavaScript-Password-Generator/
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](Assets\Images\03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](03-Javascript-Password-Generator\Assets\Images\03-javascript-homework-demo.png)
