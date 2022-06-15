@@ -12,4 +12,4 @@ https://dlhoye.github.io/03-JavaScript-Password-Generator/
 
 The following image shows the web application's appearance and functionality:
 
-<img src="./assets/images/03-javascript-homework-demo.png">
+<img src="03-JavaScript-Password-Generator/Assets/Images/03-javascript-homework-demo.png">
